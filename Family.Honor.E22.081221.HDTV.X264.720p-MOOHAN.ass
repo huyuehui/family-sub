@@ -12,6 +12,7 @@ ScaledBorderAndShadow: yes
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,1
 Style: Lyric,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,4,0,1,2,0,2,10,10,70,1
+Style: Notes,Arial,48,&H0000FFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,70,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -222,6 +223,7 @@ Dialogue: 0,0:11:54.75,0:11:56.15,Default,,0,0,0,,你真想当我的师父啊
 Dialogue: 0,0:11:56.95,0:11:58.55,Default,,0,0,0,,那就拿出点本事来让我瞧瞧
 Dialogue: 0,0:12:03.07,0:12:04.11,Default,,0,0,0,,一般情况下
 Dialogue: 0,0:12:04.11,0:12:05.87,Default,,0,0,0,,不给钱 我是不给别人看的
+Dialogue: 0,0:12:10.87,0:12:46.87,Lyric,,0,0,0,Banner;8;0;50,歌词大意 当我第一次看到你的时候 我整个人就动弹不得 被美丽的你着迷 我整个慌神了 你那美丽\N\N的笑容 把我的心偷走了 你就来到我身边吧 我们今晚 在这里疯狂一夜吧
 Dialogue: 0,0:13:35.23,0:13:36.26,Default,,0,0,0,,想笑就笑出声来
 Dialogue: 0,0:13:39.71,0:13:41.02,Default,,0,0,0,,让我做这么难堪的事
 Dialogue: 0,0:13:41.15,0:13:42.26,Default,,0,0,0,,你却高兴得要死
@@ -264,6 +266,7 @@ Dialogue: 0,0:16:26.71,0:16:28.51,Default,,0,0,0,,那个 别喝太多的酒
 Dialogue: 0,0:16:30.75,0:16:31.99,Default,,0,0,0,,很快就会结束的
 Dialogue: 0,0:16:36.55,0:16:37.43,Default,,0,0,0,,我总是觉得
 Dialogue: 0,0:16:38.27,0:16:39.79,Default,,0,0,0,,他们会一直这么走下去的
+Dialogue: 0,0:16:40.79,0:17:12.79,Lyric,,0,0,0,Banner;7;0;50,歌词大意 我在爱着你 我在等着你 却无法对你说 没有你 我的每一天都是空白 如果我向你告白 如果我看着你的话 你会接受我吗 如果这样的我也可以的话
 Dialogue: 0,0:16:57.51,0:16:59.55,Default,,0,0,0,,我当时为什么没有
 Dialogue: 0,0:16:59.55,0:17:01.67,Default,,0,0,0,,硬把那张照片抢过来呢
 Dialogue: 0,0:17:03.71,0:17:06.51,Default,,0,0,0,,振河哥 就像他说的
@@ -404,12 +407,13 @@ Dialogue: 0,0:24:06.31,0:24:08.23,Default,,0,0,0,,博物馆那边也要去检查
 Dialogue: 0,0:24:08.75,0:24:09.87,Default,,0,0,0,,你也别太累了
 Dialogue: 0,0:24:11.51,0:24:13.19,Default,,0,0,0,,听说你的腿又不舒服了
 Dialogue: 0,0:24:13.75,0:24:14.63,Default,,0,0,0,,已经好多了
+Dialogue: 0,0:24:18.40,0:24:20.10,Notes,,0,0,0,,车内有孕妇
 Dialogue: 0,0:24:21.39,0:24:23.07,Default,,0,0,0,,这是什么 谁贴的
 Dialogue: 0,0:24:24.35,0:24:26.55,Default,,0,0,0,,妈妈 这是儿子送您的圣诞礼物
 Dialogue: 0,0:24:29.03,0:24:30.03,Default,,0,0,0,,贴了这个东西
 Dialogue: 0,0:24:30.11,0:24:30.87,Default,,0,0,0,,每次下车
 Dialogue: 0,0:24:31.15,0:24:32.59,Default,,0,0,0,,别人不都得盯着看
-Dialogue: 0,0:24:32.67,0:24:33.83,Default,,0,0,0,,到底淮是孕妇啊
+Dialogue: 0,0:24:32.67,0:24:33.83,Default,,0,0,0,,到底谁是孕妇啊
 Dialogue: 0,0:24:34.43,0:24:35.55,Default,,0,0,0,,那又怎么了 妈妈
 Dialogue: 0,0:24:35.71,0:24:37.23,Default,,0,0,0,,你是明知故问呢 小儿子
 Dialogue: 0,0:24:37.79,0:24:40.07,Default,,0,0,0,,您不能在公司网页上说您怀孕了
