@@ -6,6 +6,9 @@ Collisions: Normal
 PlayResX: 1280
 PlayResY: 720
 WrapStyle: 0
+Scroll Position: 1004
+Active Line: 1030
+Video Zoom Percent: 1
 ScaledBorderAndShadow: yes
 
 [V4+ Styles]
@@ -1020,6 +1023,29 @@ Dialogue: 0,1:05:10.40,1:05:11.00,Default,,0,0,0,,是
 Dialogue: 0,1:05:12.44,1:05:13.32,Default,,0,0,0,,所以说呢
 Dialogue: 0,1:05:14.64,1:05:17.16,Default,,0,0,0,,你拿着的那个族谱啊
 Dialogue: 0,1:05:18.84,1:05:20.92,Default,,0,0,0,,把它给我吧 行不行
-Dialogue: 0,1:05:24.04,1:05:24.68,Default,,0,0,0,,爸爸
-Dialogue: 0,1:05:24.68,1:05:24.68,Default,,0,0,0,,
-Dialogue: 0,1:05:24.68,1:05:24.68,Default,,0,0,0,,
+Dialogue: 0,1:05:24.04,1:05:24.97,Default,,0,0,0,,爸爸
+Dialogue: 0,1:05:32.75,1:05:33.75,Default,,0,0,0,,
+Dialogue: 0,1:05:46.03,1:05:48.80,Default,,0,0,0,,结婚之后你就不要去学校了
+Dialogue: 0,1:05:49.10,1:05:49.36,Default,,0,0,0,,什么
+Dialogue: 0,1:05:49.36,1:05:50.63,Default,,0,0,0,,干脆搬家好了
+Dialogue: 0,1:05:50.63,1:05:51.87,Default,,0,0,0,,等我们拿到族谱之后
+Dialogue: 0,1:05:51.97,1:05:53.27,Default,,0,0,0,,应该要住在传统屋子里
+Dialogue: 0,1:05:53.54,1:05:54.27,Default,,0,0,0,,我现在已经决定
+Dialogue: 0,1:05:54.27,1:05:55.87,Default,,0,0,0,,要成为名门宗家之后了
+Dialogue: 0,1:05:56.04,1:05:57.34,Default,,0,0,0,,所以你不要妨碍我
+Dialogue: 0,1:05:57.41,1:06:00.14,Default,,0,0,0,,宾客大概会有一千人吧
+Dialogue: 0,1:06:00.21,1:06:00.84,Default,,0,0,0,,一千人
+Dialogue: 0,1:06:01.14,1:06:02.74,Default,,0,0,0,,以后就由你来管理吧
+Dialogue: 0,1:06:02.74,1:06:04.45,Default,,0,0,0,,这么多钱我怎么
+Dialogue: 0,1:06:05.01,1:06:06.08,Default,,0,0,0,,存折给我一下
+Dialogue: 0,1:06:06.08,1:06:07.45,Default,,0,0,0,,四十九万 只有这些
+Dialogue: 0,1:06:07.48,1:06:08.62,Default,,0,0,0,,你要做什么
+Dialogue: 0,1:06:09.20,1:06:10.20,Default,,0,0,0,,真让人担心
+Dialogue: 0,1:06:10.30,1:06:10.92,Default,,0,0,0,,该不会我要花
+Dialogue: 0,1:06:10.92,1:06:12.75,Default,,0,0,0,,十天半个月才能成功吧
+Dialogue: 0,1:06:12.89,1:06:13.82,Default,,0,0,0,,我以为我对你
+Dialogue: 0,1:06:13.82,1:06:15.76,Default,,0,0,0,,是没有任何要求的
+Dialogue: 0,1:06:15.76,1:06:17.69,Default,,0,0,0,,可是好像并不是那样
+Dialogue: 0,1:06:17.69,1:06:18.36,Default,,0,0,0,,有一通电话
+Dialogue: 0,1:06:18.39,1:06:19.29,Default,,0,0,0,,金善泰先生
+Dialogue: 0,1:06:19.33,1:06:20.33,Default,,0,0,0,,他是明成第三个儿子
