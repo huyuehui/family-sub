@@ -1,4 +1,3 @@
-family-sub
+家门的荣光720p外挂字幕
 ==========
 
-Subtitles of Family Honor, a Korean TV series
